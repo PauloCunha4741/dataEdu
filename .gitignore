@@ -94,3 +94,11 @@ target/
 
 # exclude data from source control by default
 # /data/
+data/raw/microdados_enem_2023/MICRODADOS_ENEM_2023.csv
+data/raw/microdados_enem_2022/MICRODADOS_ENEM_2022.csv
+data/raw/microdados_enem_2021/MICRODADOS_ENEM_2021.csv
+data/raw/microdados_enem_2020/MICRODADOS_ENEM_2020.csv
+data/processed/microdados_enem_2023/MICRODADOS_ENEM_2023.csv
+data/processed/microdados_enem_2022/MICRODADOS_ENEM_2022.csv
+data/processed/microdados_enem_2021/MICRODADOS_ENEM_2021.csv
+data/processed/microdados_enem_2020/MICRODADOS_ENEM_2020.csv
